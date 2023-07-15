@@ -1,0 +1,6 @@
+mesa
+numpy
+matplotlib
+imageio
+flask
+requests
